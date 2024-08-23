@@ -1,3 +1,5 @@
+> 零门槛接入实盘，独立运行，毫秒级下单，level2数据
+
 > DTrader 是实盘工具包，可以让普通用户通过API极速下单。下单速度和行情速度都在毫秒级别。 
   
 
@@ -33,9 +35,6 @@ DTrader 压缩包解压后有两个文件，DTrader是量化交易工具旁边�
 
 <img src="https://content.pstmn.io/abff3d8b-767f-4317-8b3e-12e718e20b89/bG9nbzUucG5n" alt="DTrader" width="100" height="106">
 
-<img src="https://content.pstmn.io/c270f3ad-e708-4a45-9f65-a68bae75b849/bG9nbzUuc3Zn">
-
-程序启动后会启动 **同\*顺客户端** 进行登录。
 
 ## **登陆成功后，您就可以自由下单了**
 
